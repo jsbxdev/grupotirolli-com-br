@@ -9,15 +9,19 @@
         Grupo Tirolli
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
-          E-mail
+        <a
+          href="mailto:gustavo@grupotirolli.com.br"
+          target="_blank"
+          class="button--green"
+        >
+          gustavo@grupotirolli.com.br
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://wa.me/5518997256199"
           target="_blank"
           class="button--grey"
         >
-          WhatsApp
+          (18) 9 9725-6199
         </a>
       </div>
     </div>
